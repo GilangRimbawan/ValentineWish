@@ -186,7 +186,7 @@ const animationTimeline = () => {
       0.5,
       {
         scale: 3.5,
-        opacity: 0,
+        opacity: 1,
         x: 25,
         y: -25,
         rotationZ: -45,
